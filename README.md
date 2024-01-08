@@ -1,5 +1,6 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azzellz)](https://github.com/anuraghazra/github-readme-stats)
+# Want to become a front-end master.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azzellz&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azzellz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Azzellz/Azzellz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
