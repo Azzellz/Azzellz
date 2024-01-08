@@ -1,8 +1,10 @@
 👼 Intermediate front-end
 
-Development & O&M 
+💻 Development & O&M(little) 
 
-**Vue & Js & Ts & Nodejs | Bunjs**
+🛞 Like to build wheels.
+
+**Vue & Js & Ts & Nodejs | Bunjs(favorite)**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azzellz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
