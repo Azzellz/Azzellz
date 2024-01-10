@@ -1,8 +1,10 @@
-👼 Intermediate front-end
+👼 Intermediate front-end.
 
-💻 Development & O&M(little) 
+💻 Development & O&M(little) .
 
 🛞 Like to build wheels.
+
+⚔️ Battle with bugs.
 
 **Vue & Js & Ts & Nodejs | Bunjs(favorite)**
 
