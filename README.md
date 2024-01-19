@@ -2,6 +2,8 @@
 
 💻 Development & O&M(little) .
 
+🍵 Avid Tea Drinker.
+
 🛞 Like to build wheels.
 
 ⚔️ Battle with bugs.
