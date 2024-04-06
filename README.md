@@ -2,6 +2,9 @@
 
 💻 Development & O&M(little) .
 
+<div>🥰 Hoshino.</div>
+<img style="height:300px" src="https://github.com/Azzellz/Azzellz/assets/117060720/6429ca4e-fcd9-45b3-97f8-cf90716d26ab">
+
 🍵 Avid Tea Drinker.
 
 🛞 Like to build wheels.
