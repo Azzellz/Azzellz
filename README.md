@@ -11,6 +11,8 @@
 
 ⚔️ Battle with bugs.
 
+📫 flin00806@gmail.com
+
 **Vue & Js & Ts & Nodejs | Bunjs(favorite)**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azzellz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
