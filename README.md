@@ -2,9 +2,6 @@
 
 💻 Development & O&M(little) .
 
-<div>🥰 Hoshino.</div>
-<img style="height:300px" src="https://github.com/Azzellz/Azzellz/assets/117060720/6429ca4e-fcd9-45b3-97f8-cf90716d26ab">
-
 🍵 Avid Tea Drinker.
 
 🛞 Like to build wheels.
@@ -12,6 +9,10 @@
 ⚔️ Battle with bugs.
 
 📫 flin00806@gmail.com
+
+🏠 https://yuzu-tea.me
+
+📖 https://blog.yuzu-tea.me
 
 **Vue & Js & Ts & Nodejs | Bunjs(favorite)**
 
